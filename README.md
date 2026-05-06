@@ -4,7 +4,7 @@ A full-featured Flutter inventory management application for small retail stores
 
 ---
 
-## 📱 Features
+## Features
 
 ### 5 Screens
 1. **Dashboard** — Overview with stats, low-stock alerts, recent activity, and stock distribution chart
@@ -46,7 +46,7 @@ A full-featured Flutter inventory management application for small retail stores
 
 ---
 
-## 🚀 Setup
+## Setup
 
 ### Prerequisites
 - Flutter SDK ≥ 3.0.0
@@ -82,7 +82,7 @@ flutter build apk --release
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lib/
@@ -112,7 +112,7 @@ lib/
 
 ---
 
-## 🔌 Optional Backend (Firebase)
+## Optional Backend (Firebase)
 
 The app is offline-first using Hive. To add Firebase sync:
 
@@ -123,6 +123,6 @@ The app is offline-first using Hive. To add Firebase sync:
 
 ---
 
-## 📸 Demo Data
+## Demo Data
 
 On first launch, 8 products are auto-created across categories (Medicine, Hygiene, Stationery, etc.) with varied stock levels — some normal, some low, and one out-of-stock — to demonstrate all features immediately.
