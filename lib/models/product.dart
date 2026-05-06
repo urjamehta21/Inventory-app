@@ -9,7 +9,7 @@ class Product extends HiveObject {
   String id;
 
   @HiveField(1)
-  String name;
+  String Productname;
 
   @HiveField(2)
   String category;
